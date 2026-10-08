@@ -1,0 +1,6 @@
+{
+  "name": "UMV Gangauli",
+  "description": "उच्च माध्यमिक विद्यालय, गंगौली (बिहार शिक्षा विभाग e-ShikshaKosh पोर्टल) - छात्र, शिक्षक, व्यवस्थापक एवं ई-ग्रंथालय पुस्तकालय प्रबंधन",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
